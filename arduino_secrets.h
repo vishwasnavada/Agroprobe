@@ -2,8 +2,8 @@
 
 /* MKR1000, MKR WiFi 1010 */
 #if defined(BOARD_HAS_WIFI)
-  #define SECRET_SSID "Ironman"
-  #define SECRET_PASS "@Roomno52"
+  #define SECRET_SSID "SSID"
+  #define SECRET_PASS "PASSWD"
 #endif
 
 /* ESP8266 */
